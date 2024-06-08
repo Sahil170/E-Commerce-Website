@@ -25,6 +25,7 @@ nav {
     width: 85%;
     margin: auto;
     display: flex;
+    height: 5rem;
     justify-content: space-between;
     place-items: center;
     padding-bottom: 0 15px;
@@ -127,6 +128,7 @@ nav {
     font-weight: 400;
     margin-top: 15px;
     color: rgb(135, 135, 135);
+    text-align: justify;
     
 }
 
@@ -138,7 +140,8 @@ nav {
 }
 
 #home-top-image img {
-    max-width: 800px;
+    max-width: 650px;
+    padding-left: 10%
 }
 
 
